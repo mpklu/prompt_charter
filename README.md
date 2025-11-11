@@ -38,6 +38,3 @@ See more in  [PROMPT_INJECTION](./templates/PROMPT_INJECTION.md)
 
 ## Why This Matters
 Without enforced guardrails, AI code assistance drifts architecture, duplicates patterns, and increases maintenance overhead. Prompt Leash constrains generation to explicit, auditable standards.
-
----
-Maintainers: Add contact and governance details here.
