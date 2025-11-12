@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mpklu/ai_code_rail.git",
+    "url": "https://github.com/mpklu/prompt_charter.git",
     "directory": "cli"
   },
-  "homepage": "https://github.com/mpklu/ai_code_rail",
+  "homepage": "https://github.com/mpklu/prompt_charter",
   "bugs": {
-    "url": "https://github.com/mpklu/ai_code_rail/issues"
+    "url": "https://github.com/mpklu/prompt_charter/issues"
   },
   "engines": {
     "node": ">=14.0.0"

@@ -89,7 +89,7 @@ Paste RULES.md content into project context, then code normally.
 
 ## Links
 
-- **Repo**: https://github.com/mpklu/ai_code_rail
+- **Repo**: https://github.com/mpklu/prompt_charter
 - **npm**: https://www.npmjs.com/package/prompt-charter
-- **Advanced Usage**: [PROMPT_INJECTION.md](https://github.com/mpklu/ai_code_rail/blob/main/templates/PROMPT_INJECTION.md)
-- **Validation**: [VALIDATION_PROMPT.md](https://github.com/mpklu/ai_code_rail/blob/main/templates/VALIDATION_PROMPT.md)
+- **Advanced Usage**: [PROMPT_INJECTION.md](https://github.com/mpklu/prompt_charter/blob/main/templates/PROMPT_INJECTION.md)
+- **Validation**: [VALIDATION_PROMPT.md](https://github.com/mpklu/prompt_charter/blob/main/templates/VALIDATION_PROMPT.md)

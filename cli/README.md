@@ -127,9 +127,9 @@ More coming soon:
 
 ## Learn More
 
-- **Advanced Patterns**: [PROMPT_INJECTION.md](https://github.com/mpklu/ai_code_rail/blob/main/templates/PROMPT_INJECTION.md)
-- **Validation Guide**: [VALIDATION_PROMPT.md](https://github.com/mpklu/ai_code_rail/blob/main/templates/VALIDATION_PROMPT.md)
-- **Full Repository**: [github.com/mpklu/ai_code_rail](https://github.com/mpklu/ai_code_rail)
+- **Advanced Patterns**: [PROMPT_INJECTION.md](https://github.com/mpklu/prompt_charter/blob/main/templates/PROMPT_INJECTION.md)
+- **Validation Guide**: [VALIDATION_PROMPT.md](https://github.com/mpklu/prompt_charter/blob/main/templates/VALIDATION_PROMPT.md)
+- **Full Repository**: [github.com/mpklu/prompt_charter](https://github.com/mpklu/prompt_charter)
 
 ## Requirements
 
@@ -186,4 +186,4 @@ MIT
 
 ## Contributing
 
-See the main [ai_code_rail](https://github.com/mpklu/ai_code_rail) repository for contribution guidelines.
+See the main [prompt_charter](https://github.com/mpklu/prompt_charter) repository for contribution guidelines.

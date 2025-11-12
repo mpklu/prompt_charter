@@ -41,9 +41,9 @@ function displayUsage(rulesPath, lineCount) {
   console.log(chalk.gray('   Refactor ScheduleStore to use ScheduleService instead of direct API calls."\n'));
   
   console.log(chalk.bold('📖 Learn More:'));
-  console.log(chalk.cyan('   Advanced patterns:'), 'https://github.com/mpklu/ai_code_rail/blob/main/templates/PROMPT_INJECTION.md');
-  console.log(chalk.cyan('   Validation guide:'), 'https://github.com/mpklu/ai_code_rail/blob/main/templates/VALIDATION_PROMPT.md');
-  console.log(chalk.cyan('   Full repository:'), 'https://github.com/mpklu/ai_code_rail\n');
+  console.log(chalk.cyan('   Advanced patterns:'), 'https://github.com/mpklu/prompt_charter/blob/main/templates/PROMPT_INJECTION.md');
+  console.log(chalk.cyan('   Validation guide:'), 'https://github.com/mpklu/prompt_charter/blob/main/templates/VALIDATION_PROMPT.md');
+  console.log(chalk.cyan('   Full repository:'), 'https://github.com/mpklu/prompt_charter\n');
 }
 
 /**
