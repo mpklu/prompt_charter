@@ -1,11 +1,21 @@
 # Prompt Charter
 Curated, enforceable architectural and process rule sets for guiding AI coding tools (GitHub Copilot, Claude, etc.) to produce consistent, non-chaotic output across project types.
 
+## Quick Start
+
+Install rule sets to your project with one command:
+
+```bash
+npx prompt-charter install
+```
+
+See [CLI documentation](./cli/README.md) for details.
+
 ## Purpose
 - Prevent AI from generating ad‑hoc architectures.
 - Provide deterministic constraints per domain (frontend apps, APIs, data pipelines, infra-as-code, conversations).
 - Accelerate onboarding by reusing codified standards.
-- Enable portable “prompt rule packs” you can drop into any repo.
+- Enable portable "prompt rule packs" you can drop into any repo.
 
 ## Core Principles
 1. Rules are concise, binary (✅ REQUIRED / ❌ FORBIDDEN).
@@ -30,11 +40,12 @@ Example prompt header:
 
 See more in  [PROMPT_INJECTION](./templates/PROMPT_INJECTION.md)
 
-## Template
+## Templates & Guides
 
-- [RULESET_TEMPLATE](./templates/RULESET_TEMPLATE.md)
-- [PROMPT_INJECTION](./templates/PROMPT_INJECTION.md)
-
+- [RULESET_TEMPLATE](./templates/RULESET_TEMPLATE.md) - Template for creating new rule sets
+- [PROMPT_INJECTION](./templates/PROMPT_INJECTION.md) - How to use rules in AI prompts
+- [VALIDATION_PROMPT](./templates/VALIDATION_PROMPT.md) - Validate code against rules
+- [CLI Tool](./cli/README.md) - Install rule sets with `npx prompt-charter`
 
 ## Why This Matters
 Without enforced guardrails, AI code assistance drifts architecture, duplicates patterns, and increases maintenance overhead. Prompt Leash constrains generation to explicit, auditable standards.
