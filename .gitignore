@@ -24,3 +24,4 @@ htmlcov/
 .ipynb_checkpoints/
 *.swp
 *.swo
+.prompt_charter/

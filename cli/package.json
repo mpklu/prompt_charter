@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "commander": "^11.1.0",
-    "inquirer": "^9.2.12",
+    "inquirer": "^8.2.5",
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
     "ora": "^5.4.1"
